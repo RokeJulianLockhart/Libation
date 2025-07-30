@@ -5,6 +5,8 @@
   </PropertyGroup>
 
   <ItemGroup>
+
+    <PackageReference Include="SixLabors.ImageSharp" Version="3.1.11" />
     <ProjectReference Include="..\AaxDecrypter\AaxDecrypter.csproj" />
     <ProjectReference Include="..\ApplicationServices\ApplicationServices.csproj" />
     <ProjectReference Include="..\DataLayer\DataLayer.csproj" />
