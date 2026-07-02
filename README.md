@@ -19,7 +19,6 @@ All documentation has been moved to our new site: [getlibation.com](https://getl
 
 * [Getting Started](https://getlibation.com/docs/getting-started)
 * [Download](https://github.com/rmcrackan/Libation/releases/latest)
-* [Issues, bugs, and requests](https://github.com/rmcrackan/Libation/issues)
 * [Documentation](https://getlibation.com/docs/index)
 
 ## Development
